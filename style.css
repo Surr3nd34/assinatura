@@ -1,0 +1,14 @@
+.icon{
+	width: 50px;
+	grid-column: 2;
+	grid-row: 2;
+	align-self: center;
+}
+
+.box{
+	width: 400px;
+	background-image: url(https://ap.imagensbrasil.org/images/2019/09/29/Assinatura-Digital.14.jpg);
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows: 1fr 1fr 1fr;
+}
